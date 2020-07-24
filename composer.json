@@ -1,0 +1,12 @@
+{
+    "name": "bartosz.poborowski/pdf",
+    "authors": [
+        {
+            "name": "John Kapciu",
+            "email": "kapciu@kubota.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    }
+}
